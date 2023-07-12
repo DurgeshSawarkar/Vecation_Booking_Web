@@ -34,7 +34,9 @@ body {
     cursor: pointer;
 
 }
-
+.vecation-header{
+    font-size:30px;
+}
 
 .vecation-text {
     margin-bottom: 30px;
