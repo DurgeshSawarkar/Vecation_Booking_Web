@@ -28,7 +28,7 @@ body {
 }
 
 .btn:hover {
-    background: linear-gradient(35deg, teal, black);
+    background: linear-gradient(35deg, teal, white);
     color: black;
     border: 1px solid whitesmoke;
     cursor: pointer;
